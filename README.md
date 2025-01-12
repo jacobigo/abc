@@ -1,2 +1,2 @@
 # abc
-Albanian Card Game
+Albanian Card Game, courtesy of Ben Reid
